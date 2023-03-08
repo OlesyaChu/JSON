@@ -1,1 +1,16 @@
-
+{
+  "Bug_reports":
+               {
+                "Project": "To Do List",
+                "Bug_ID": 1,
+                "Title": "When scrolling the opened Action menu About item, if a finger accidentally hits the existing links in the text, the links open",
+                "Environment": "Redmi Note 8 Pro",
+                "Precondition": "Launching the To Do List app",
+                "STR": "Tap on the Action menu item A to Z",
+                "AR": "When scrolling the opened Action menu About item, if a finger accidentally hits the existing links in the text, the links open",
+                "ER": "When scrolling the Action menu About item that opens, the links do not open. Links open when you tap on them",
+                "Priority": "Medium",
+                "Severity": "Minor",
+                "Attachments": "Link to bug report"
+               }
+}
